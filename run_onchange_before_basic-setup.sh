@@ -2,7 +2,7 @@
 sudo dnf remove akregator kolourpaint kpat kadressbook kmail kmouth neochat
 
 dnf copr enable lihaohong/yazi
-sudo dnf install btop neovim bat asciiquarium kitty fastfetch ranger fzf python3 xournalpp git make gcc yazi
+sudo dnf install btop neovim bat asciiquarium kitty fastfetch ranger fzf python3 xournalpp git make gcc yazi cmake
 
 #flatpak
 flatpak install flathub com.nextcloud.desktopclient.nextcloud
